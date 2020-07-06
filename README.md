@@ -1,6 +1,6 @@
 # BugBountyInn
 
-# All operate on URLs in a file
+## All tools operate on URLs in a file
 
 httpsInserter - to insert https for URLs
 
