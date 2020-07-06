@@ -1,4 +1,4 @@
-# BugBountyInn
+# Bug Bounty Inn. Welcome to the inn!
 
 ## All tools operate on URLs in a file
 
